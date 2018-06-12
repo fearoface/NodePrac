@@ -1,4 +1,4 @@
-var http = require('hhtp');
+var http = require('http');
 
 http.createServer(
 	function(req,res)
