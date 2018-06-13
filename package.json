@@ -9,12 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fearoface/NodePrac.git"
+    "url": "https://github.com/fearoface/NodePrac.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fearoface/NodePrac/issues"
   },
-  "homepage": "https://github.com/fearoface/NodePrac#readme"
+  "homepage": "https://github.com/fearoface/NodePrac#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
