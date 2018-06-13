@@ -1,0 +1,20 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "Just for practice",
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fearoface/NodePrac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fearoface/NodePrac/issues"
+  },
+  "homepage": "https://github.com/fearoface/NodePrac#readme"
+}
