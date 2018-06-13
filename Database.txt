@@ -1,9 +1,0 @@
-Database{
-			'name' : 'node'
-			}
-tables : 
-		{
-			'name' : 'login'
-			'column' : 'id'
-			'column' : 'pass'	
-			}
